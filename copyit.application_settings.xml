@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cognito_identity_pool_id"></string>
+    <string name="region">ap-northeast-1</string>
+    <string name="kinesis_stream_name">kinesis-stream-1</string>
+    <string name="firehose_stream_name">firehose-stream-1</string>
+</resources>
