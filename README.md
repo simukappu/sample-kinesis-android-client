@@ -13,7 +13,7 @@ Sample android application as Amazon Kinesis client
 See http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/kinesis.html
 1. Create a stream in Kinesis Streams
 2. Create a delivery stream in Kinesis Firehose
-3. Create an Cognito Identity Pool
+3. Create a Cognito Identity Pool
 4. Set IAM permissions to access Kinesis Streams and Kinesis Firehose streams
 
 ### In your local
